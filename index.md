@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+<!DOCTYPE html>
+<html>
+<head>
 
-You can use the [editor on GitHub](https://github.com/SangeetaKulkarni89/module2/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<title>Responsive Layout</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" type="text/css" href="css/style.css">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</head>
+<body>
+<h1>Online Courses</h1>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+  <div class="col-lg-4 col-md-6 col-sm-12">
+  	<div class="box">
+  		<p class="content-name name1">Coursera</p>
+  		<p class="content">Coursera is now offering online “specializations” - certificates from participating colleges that students can use to demonstrate completion of a series of classes.
+</p>
+  	</div>
+  </div>
 
-# Header 1
-## Header 2
-### Header 3
+  <div class="col-lg-4 col-md-6 col-sm-12">
+  	<div class="box">
+   		<p class="content-name name2">Great Learning</p>
+   		<p class="content">Great Learning Academy is an initiative taken by Great Learning, where we are offering 1000+ hours of content across 80+ courses in Data Science, Machine Learning, Artificial Intelligence, Cloud Computing, Business, Digital Marketing, Big Data and many more for free.</p>
+  	</div>
+  </div>
 
-- Bulleted
-- List
+  <div class="col-lg-4 col-md-12 col-sm-12">
+  	<div class="box">
+  		<p class="content-name name3">Simpliv</p>
+  		<p class="content">Simpliv is a global online learning marketplace that transforms lives by offering online training on a wide variety of topics. Created with the aim of making education accessible to all, Simpliv removes barriers to education among all communities, imparts life skills to learners, and bridges gaps in learning through cost-effective courses.</p>
+  	</div>	
+  </div>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SangeetaKulkarni89/module2/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+</body>
+</html>
