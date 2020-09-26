@@ -1,8 +1,9 @@
 <html>
 <head>
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="stylesheet" type="text/css" href="/css/style.css">
-<title>Responsive Layout</title>
+  <title>Responsive Layout</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="/css/style.css">
+
 </head>
 <body>
 <h1>Online Courses</h1>
